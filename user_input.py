@@ -1,0 +1,5 @@
+name=input("please provide your name ")
+age=input("provide your age ")
+location=input("your location ")
+u=("Hello {} you are {} years old, from {}".format(name,age,location))
+print(u)
